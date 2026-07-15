@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    color:aliceblue;
+  
+}
+h1{
+    font-weight: 900;
+    font-family : 'kanit';
+    padding: 60px;
+    width: 70px;
+    margin: auto auto;
+    text-shadow: 1px -4px black;
+}

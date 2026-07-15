@@ -1,0 +1,18 @@
+div{
+    
+    margin: 30px auto;
+    width: 400px;
+   
+    background: green;
+    padding: 20px 40px;
+    font-family: "orbitron";
+    text-align: center;
+    border: 7px solid rgb(201, 17, 54);
+    color:whitesmoke;
+    
+}
+span{
+    background: brown;
+    padding:10px ;
+    border : 1px solid black;
+}

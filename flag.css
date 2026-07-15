@@ -1,4 +1,4 @@
-.blue1{
+/* .blue1{
     background: skyblue;
     height: 150px;
     
@@ -12,4 +12,26 @@
 img{
     width: 150px;
     text-align: center;
+} */
+
+#a{
+    background-color:orange;
+    width:33vw;
+    height: 100vh;
+}
+#b{
+    background-color: yellow;
+    width:33vw;
+    height: 100vh;
+}
+#c{
+    background-color: black;
+    width:33vw;
+    height: 100vh;
+}
+
+body{
+    display: flex;
+    margin:0px;
+   
 }
