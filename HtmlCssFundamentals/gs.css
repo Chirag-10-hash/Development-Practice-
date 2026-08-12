@@ -1,8 +1,23 @@
-div{
+/* div{
     text-align: center;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 body{
     text-align: center;
+} */
+
+article {
+    font-family : 'Courier New', Courier, monospace; 
+    color :white;
+    text-shadow: 2px 0px black ;
 }
+
+body {
+   background-image: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B3Z2g2c2xrd2RicWNwN3J6OTcwMWYxMGJhZmVjdGViOXdxbnE3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OuQmhmAAdJFLi/giphy.gif");
+background-size:cover;
+
+}
+span{
+    color :red;
+    background-blend-mode: hue;}
